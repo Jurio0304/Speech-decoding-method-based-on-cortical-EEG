@@ -71,5 +71,5 @@
 ## 参考文献：
 ```
 [1] Angrick, M., Ottenhoff, M.C., Diener, L. et al. Real-time synthesis of imagined speech processes from minimally invasive recordings of neural activity. Commun Biol  4, 1055 (2021). https://doi.org/10.1038/s42003-021-02578-0
-[2]Kumar, Kundan Kumar, Rithesh de Boissiere. et al. MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis. arXiv:1910.06711
+[2] Kumar, Kundan Kumar, Rithesh de Boissiere. et al. MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis. arXiv:1910.06711
 ```
